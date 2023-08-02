@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprueba_3=self.webpackChunkprueba_3||[]).push([[1280],{1833:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/chat-api/blog/tags/hello","allTagsPath":"/chat-api/blog/tags","count":2}')}}]);

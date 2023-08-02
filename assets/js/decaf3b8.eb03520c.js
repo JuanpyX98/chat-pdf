@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprueba_3=self.webpackChunkprueba_3||[]).push([[5569],{9493:e=>{e.exports=JSON.parse('{"permalink":"/chat-api/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
